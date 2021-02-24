@@ -1,1 +1,1 @@
-# Multi-agent modelling scenarios for CLDS. 1st run results.
+# Multi-agent modelling scenarios
